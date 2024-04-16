@@ -7,6 +7,7 @@ export const metadata = {
   description:
     'A simple Next.js app with Vercel Postgres as the database and Prisma as the ORM',
 }
+console.log('please help')
 
 const inter = Inter({
   variable: '--font-inter',
